@@ -3,18 +3,18 @@
 </script>
 
 <style lang="scss">
-  $primary: purple;
+  $primary: rgb(4, 99, 163);
 
   @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
   h1 {
     color: $primary;
-  }
+  } 
 </style>
 
 <div class="container">
   <h1>Hello {name}!</h1>
-  <p class="text-primary">
+  <p class="text-secondary">
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam deserunt eos
     quam reprehenderit porro, dolor nulla veritatis iure, voluptas repellendus
     consequuntur fugit illum similique? Ab obcaecati doloribus distinctio iure?
